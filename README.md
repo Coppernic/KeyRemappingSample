@@ -28,6 +28,25 @@ The javadoc for CpcCore can be found [here](https://github.com/Coppernic/coppern
 Key remapping
 -------------
 
+### Programmable buttons
+
+On C-One:
+
+|Button|Description|
+|---|---|
+|P1|Left blue button|
+|P2|Right blue button|
+|P3|Black button between P1 and Power|
+
+On C-One e-ID:
+
+
+|Button|Description|
+|---|---|
+|P1|Left bottom button|
+|P2|Right button|
+|P3|Left middle button|
+
 ### Libraries
 
 CpcCore is the library responsible for power management.
