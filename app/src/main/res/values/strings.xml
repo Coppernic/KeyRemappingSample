@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Key Remapping Sample</string>
+
+    <string name="programmable_key">Programmable key</string>
+    <string name="virtual_keys">Virtual keys</string>
+    <string name="shortcuts">Shortcuts</string>
+    <string name="remap">Remap</string>
+    <string name="get_remapping">Get remapping</string>
+    <string name="remove_remapping">Remove remapping</string>
+    <string name="remove_all_remappings">Remove all remappings</string>
+
+    <string-array name="programmableKey">
+        <item>P1</item>
+        <item>P2</item>
+        <item>P3</item>
+    </string-array>
+
+</resources>
