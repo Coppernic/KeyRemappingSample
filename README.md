@@ -4,7 +4,7 @@ Sample application for key remapping on C-One
 
 Introduction
 ------------
-This sample application illustrates how to use the ASK UCM108 RFID reader on Coppernic C-One and C-One e-ID devices.
+This sample application illustrates how to use the key remapping API on Coppernic C-One and C-One e-ID devices.
 
 The libraries
 -------------
